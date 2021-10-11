@@ -19,7 +19,7 @@ import com.bumptech.glide.Glide;
 public class MainActivity extends AppCompatActivity {
 
     ImageView imageView;
-    int[] imageResIds = {R.drawable.car1, R.drawable.car2, R.drawable.car3};
+    int[] imageResIds = {R.drawable.car1, R.drawable.car2, R.drawable.car3, R.drawable.car4, R.drawable.car5, R.drawable.car6};
     int imageIndex = 0;
     boolean color = true;
     boolean red = true;
