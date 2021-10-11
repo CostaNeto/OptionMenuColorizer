@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OptionMenu Colorizer</string>
+    <string name="image_view_content_description">Cars</string>
+</resources>
